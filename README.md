@@ -1,7 +1,15 @@
 ### Hello World 👋
+![Static Badge](https://img.shields.io/badge/Cyber%20Security-black)
+![Static Badge](https://img.shields.io/badge/Intelligent%20System-black)
+
+Welcome to my page!  
+I'm Adam, a student from Shenzhen, China, currently studying in NUS.
+### Things I code with
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![C](https://img.shields.io/badge/C-black?logo=C)
 
 ### Stats
-![zxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=proprozxy&show_icons=true)  
+![Zxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=proprozxy&show_icons=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proprozxy&layout=compact)
 
 <!--
